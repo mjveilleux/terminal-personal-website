@@ -38,6 +38,3 @@ myproject/
 ├── README.md                # Documentation
 └── LICENSE                  # License information
 ```
-# terminal-personal-website
-# terminal-personal-website
-# terminal-personal-website
